@@ -34,7 +34,7 @@ const getInitialState = () => ({
   enemyTime: 1.00,
   playerTime: 0.00,
   fireStartTime: null,
-  enemyId: 3
+  enemyId: 1
 });
 
 let state = getInitialState();
